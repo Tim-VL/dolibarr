@@ -19,7 +19,7 @@ DefaultForProduct=Standaard voor producten
 ProductForThisThirdparty=Product voor deze relatie
 ServiceForThisThirdparty=Service voor deze relatie
 CantSuggest=Geen suggestie
-AccountancySetupDoneFromAccountancyMenu=De meeste instellingen boekhouding worden gedaan vanuit menu %s
+AccountancySetupDoneFromAccountancyMenu=De meeste instellingen voor boekhouding worden gedaan vanuit menu %s
 ConfigAccountingExpert=Configuratie van boekhoud-module (dubbel boekhouden)
 Journalization=Journalisatie
 Journals=Dagboeken
@@ -54,10 +54,10 @@ ExportAccountingProjectHelp=Specificeer een project als u alleen een boekhoudkun
 VueByAccountAccounting=Overzicht per grootboekrekening
 VueBySubAccountAccounting=Overzicht op volgorde subrekening
 
-MainAccountForCustomersNotDefined=De standaard grootboekrekening voor klanten is niet vastgelegd bij de instellingen
+MainAccountForCustomersNotDefined=De standaard grootboekrekening voor klanten is niet gedefinieerd bij de instellingen
 MainAccountForSuppliersNotDefined=Hoofdrekening voor leveranciers die niet zijn gedefinieerd in de configuratie
-MainAccountForUsersNotDefined=De standaard grootboekrekening voor gebruikers is niet vastgelegd bij de instellingen
-MainAccountForVatPaymentNotDefined=Standaard grootboekrekening voor betaalde BTW is niet vastgelegd bij instellingen
+MainAccountForUsersNotDefined=De standaard grootboekrekening voor gebruikers is niet gedefinieerd bij de instellingen
+MainAccountForVatPaymentNotDefined=Standaard grootboekrekening voor betaalde BTW is niet gedefinieerd bij instellingen
 MainAccountForSubscriptionPaymentNotDefined=Hoofdrekening voor abonnementsbetaling is niet gedefinieerd in de configuratie
 UserAccountNotDefined=Grootboekrekening voor gebruiker niet gedefinieerd in setup
 
